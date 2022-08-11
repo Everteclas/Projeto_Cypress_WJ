@@ -49,7 +49,7 @@ Passo a passo:
 
 Depois verificar o resultado do dashboard através do link:
 
-[Dashboard](https://dashboard.cypress.io/projects/yq5coi/runs?branches)
+[Dashboard](https://dashboard.cypress.io/projects/c23ous/runs?branches)
 
 Feito por Everton Ferrer [Acesse meu linkedin](https://www.linkedin.com/in/everton-ferrer-55903199)
 
