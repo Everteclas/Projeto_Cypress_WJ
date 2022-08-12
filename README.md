@@ -26,7 +26,7 @@ Na raiz do projeto, abrir o prompt de comando e digitar o comando
 ```bash
 npm run test
 ```
-Clicar em Run 3 integration specs
+Clicar em ```Run 3 integration specs```
 
 Depois
 
@@ -44,9 +44,9 @@ code .
 
 Passo a passo:
 
-* Clicar em Actions
-* Clicar em Cypress Regression Tests
-* Clicar em Create workflow-cypress.yml
+* Clicar em ```Actions```
+* Clicar em ```Cypress Regression Tests```
+* Clicar em ```Create workflow-cypress.yml```
 * Clicar no botão ```Re-run all jobs```
 
 Depois verificar o resultado do dashboard através do link:
