@@ -24,13 +24,15 @@ npm --version 8.11.0
 Na raiz do projeto, abrir o prompt de comando e digitar o comando
 
 ```bash
-npx cypress run
-```
-ou
-```bash
 npm run test
 ```
 Clicar em Run 3 integration specs
+
+Depois
+
+```bash
+npx cypress run
+```
 
 Para acessar o projeto no Visual Code através do prompt de comando, é só digitar o comando 
 
